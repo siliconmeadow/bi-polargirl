@@ -1,0 +1,16 @@
+name = Bi-Polar Girl
+description = Bi-Polar Girl is a subtheme of 007 niGraphic Studio
+base theme = nigraphic
+regions[maincolHead] = Banner
+regions[left] = Left sidebar
+regions[topleft] = Header Left
+regions[content] = Content
+features[] = name
+features[] = slogan
+features[] = logo
+features[] = search
+features[] = favicon
+features[] = primary_links
+stylesheets[all][] = bi-polargirl.css
+core = 6.x
+engine = phptemplate

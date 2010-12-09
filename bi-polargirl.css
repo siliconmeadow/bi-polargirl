@@ -1,0 +1,42 @@
+* { font-size: 9pt; }
+html, body
+{
+  background: #4a4a4a url(images/bg_body.jpg) repeat-x;
+}
+body
+{
+  font-size: 100%;
+}
+#page
+{
+  /* Use a 14px base font size with a 18px line height */
+  font-size: 0.875em; /* 16px x .875 = 14px */
+  line-height: 1.286em; /* 14px x 1.286 = 18px */
+}
+#headerHead {
+  height:177px;
+}
+#maincolBody {
+  font-size: 1.2em; /* 16px x .875 = 14px */
+  line-height: 1.8em; /* 14px x 1.286 = 18px */
+}
+
+#leftCol .content { line-height: 1.5em; }
+#maincolHead { width: 844px; }
+form#search-block-form {
+  margin: 0;
+  padding: 0;
+}
+img.img-right {
+  border: none;
+  float: right;
+  padding:3px 0 7px 10px;
+}
+img.img-left {
+  border: none;
+  float: left;
+  padding: 3px 10px 7px 0;
+}
+blockquote {
+  padding-left: 30px;
+}
