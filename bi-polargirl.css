@@ -40,3 +40,6 @@ img.img-left {
 blockquote {
   padding-left: 30px;
 }
+iframe {
+  margin: 10px;
+}
